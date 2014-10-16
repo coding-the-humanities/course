@@ -4,18 +4,15 @@
 
 ### Who:
 
-University of Amsterdam
-Sandberg Institute
-
-Coding the Humanities
-Augmenting Masterpieces
-
-Lust / LustLab
-UncInc
-Bocoup Boston
-
-Rijksmuseum
-City of Amsterdam
+- University of Amsterdam
+- Sandberg Institute
+- Coding the Humanities
+- Augmenting Masterpieces
+- Lust / LustLab
+- UncInc
+- Bocoup Boston
+- Rijksmuseum
+- City of Amsterdam
 
 (more?)
 
@@ -41,17 +38,25 @@ equipped to avoid above mentioned problems.
 
 For the students of UvA the proposed collaboration has the following benefits:
 
-- Students get design experience
-- Education through Path Platform (online)
-- Assessment through grading checkpoints (mandatory assignments)
-- Paths in Platform have given starting point and open endpoint with requirements
+- They are introduced to design thinking and prototyping.
+- They get to work with more advanced students.
+- They are taught by someone who runs a world renowned design studio and lab.
 
 For the students of Sandberg the proposed collaboration has the following benefits:
 
-- Students get coding skills out of it
-- Master students function as organisers/facilitators/teamleaders
+- They learn JavaScript
+- They get to lead a team
+- They are confronted to problems from a humanities perspective
+
+For the partners in this project the proposed collaboration has the following benefits:
+
+- True interdisciplinary research and teaching
+- Explore the possibilities for sustainable, future collaborations
+- Get into contact with talented students
+- Work on the cutting edge of humanities research, design, and technology
 
 ### Where:
+
 - University of Amsterdam
 - Sandberg Institute
 - The Hague - LustLab
