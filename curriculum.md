@@ -74,9 +74,11 @@ For the partners in this project the proposed collaboration has the following be
 ### Sandberg Institute
 
 21/10 - Prototyping session
-        - Assignment: City Walk
+  - Assignment: City Walk
+
 28/10 - Prepare Prototyping Session 4/11
-        - Prepare Project Pitch
+  - Prepare Project Pitch
+
 9/1   - Workshop
 
 
@@ -93,9 +95,13 @@ For the partners in this project the proposed collaboration has the following be
  - Prototyping sessions (MA-students as facilitators)
  - Forming teams (mix of BA and MA students)
  - Schedule 4 Peer feedback sessions per team
+
 18/11 - Sandberg
+
 2/12  - UvA
+
 9/12 - Proof of Concept Presentations (Sandberg)
+
 20/1 - Final Presentations (LustLab)
 
 
