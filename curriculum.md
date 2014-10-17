@@ -11,14 +11,15 @@
 - Lust / LustLab
 - UncInc
 - Bocoup Boston
+- Cast Your Art (?)
 - Rijksmuseum
-- City of Amsterdam
+- City of Amsterdam (?)
 
 (more?)
 
 ### What:
 
-Group of 4-6 students of the UvA and Sandberg will develop an interface that 
+Groups of 4-6 students of the UvA and Sandberg will develop an interface that 
 connects a specific location in Amsterdam to data from the Rijksmuseum API
 
 ### How:
@@ -44,8 +45,9 @@ For the students of UvA the proposed collaboration has the following benefits:
 
 For the students of Sandberg the proposed collaboration has the following benefits:
 
-- They learn JavaScript
-- They get to lead a team
+- They have the possibility to learn JavaScript
+- They have the possibility have a team of interdisciplinary scholars work on 
+  an project that they came up with.
 - They are confronted to problems from a humanities perspective
 
 For the partners in this project the proposed collaboration has the following benefits:
@@ -72,8 +74,11 @@ For the partners in this project the proposed collaboration has the following be
 ### Sandberg Institute
 
 21/10 - Prototyping session
-28/10 - Prepare Group Sessions Kick-off
-20/1  - Presentations MVP
+        - Assignment: City Walk
+28/10 - Prepare Prototyping Session 4/11
+        - Prepare Project Pitch
+9/1   - Workshop
+
 
 ### UVA
 
@@ -81,28 +86,40 @@ For the partners in this project the proposed collaboration has the following be
 
 ### Collaboration
 
-4/11  - Kick-off 4th of November
+4/11  - Kick-off (LustLab)
  - Homework: City Walk
+ - Project Pitches / Selection
  - City Walk Interview (talk about your pictures and experiences)
  - Prototyping sessions (MA-students as facilitators)
  - Forming teams (mix of BA and MA students)
  - Schedule 4 Peer feedback sessions per team
-tba   - 3 workshops with domain experts (UncInc? Hybrid Group? Steim? Tulp? Rijksmuseum?)
-15/11 - Proof of Concept Presentations
+18/11 - Sandberg
+2/12  - UvA
+9/12 - Proof of Concept Presentations (Sandberg)
+20/1 - Final Presentations (LustLab)
 
 
-## First Assignment: City Walk
+## Assignments
 
-### Create your own Data Set
+### City Walk
+
+#### Create your own Data Set
 
 - Walk one of the given Rijksmuseum routes
 - Document your walk through making pictures of anything that attracts your attention
 - Use HTML and CSS to mark up and style your documentation
 
-### Goals of the Assignment
+#### Goals of the Assignment
 
 - Guide view from broad towards more specific.
 - Convert the feeling of public participation
 - Catch random flows of information
 - Become aware of unused time and space
 - Make new narratives
+
+### Prepare Pitch
+
+For the kick-off session on the fourth the Sandberg students will prepare a 
+short presentation to pitch their project. As a group, we will select the 
+4-6 most promising ones during the kick-off.
+
